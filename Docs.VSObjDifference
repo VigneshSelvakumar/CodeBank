@@ -1,1 +1,4 @@
-abc
+Windows Object is high level object.It represents a browser window. For example, Using alert()-Display an alert box, close()- To close the window.
+Document is one of the funtionality of window. Using the element in HTML, We can access the document object. 
+For example, Using createElement()- used to create HTML element, getElementById()- return the object of the given ID.
+
